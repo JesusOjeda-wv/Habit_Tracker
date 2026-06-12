@@ -14,4 +14,3 @@ Habit Tracker is a small serverless application. It allows you to create habits 
 - API Gateway
 - AWS Lambda
 - Dynamo DB
-- 
